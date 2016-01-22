@@ -1,0 +1,24 @@
+* {
+	background-color: #00539f;
+}
+
+.first {
+	font-family: Arial;
+	color: blue;
+}
+
+.second {
+	font-family: Arial;
+	color: red;
+}
+
+p {
+	font-family: Arial;
+	font-size: 12px;
+	font-color: black;
+}
+
+div {
+	background-color: #00c957;
+	border: 2px solid black;
+}
